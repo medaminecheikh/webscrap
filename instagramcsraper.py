@@ -5,8 +5,8 @@ import datetime
 import json
 
 # --- Instagram Configuration ---
-USERNAME = 'amine.dev'                # Your Instagram username
-PASSWORD = 'AmineSecurePass2025'      # Your Instagram password
+USERNAME = 'amineC'                # Your Instagram username
+PASSWORD = 'AmineSPass2025'      # Your Instagram password
 TARGET_HASHTAG = 'jacqueschirac'      # The hashtag you want to scrape
 POST_LIMIT = 50                       # Number of posts to scrape
 DOWNLOAD_IMAGES = True                # Set to False if you don't want to download images
